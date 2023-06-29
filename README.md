@@ -1,7 +1,7 @@
 
 <img align="left" src="https://github.com/henrysg29/henrysg29/blob/main/20955fe1233b44e58.gif" width="300" height="250">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrysg29&show_icons=true&theme=radical)
+<br><br><br><br><br><br><br><br><br><br><br><br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrysg29&show_icons=true&theme=radical)
 
 <br>
 <br>
