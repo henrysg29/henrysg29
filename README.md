@@ -1,5 +1,5 @@
 
-<img align="left" src="https://github.com/henrysg29/henrysg29/blob/main/20955fe1233b44e58.gif" width="300" height="250">
+<img align="center" src="header.jpg">
 
 <div align="rignt">
 
@@ -7,8 +7,7 @@
 
 </div>
 <br>
-<br>
-<br>
+
 <p class="text-center"> - 👋 Hi, I’m HenrySG </p>
 <p class="text-center">- 👀 I’m a BuildBot 
 <p class="text-center">-📫 Reach me in @henztz ( Telegram )
