@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <strong><a href="t.me/henztz">Personal Telegram</a></strong> |
-  <strong><a href="t.me/TrashedProject">Telegram Channel</a></strong> 
+  <strong><a href="https://t.me/henztz">Personal Telegram</a></strong> |
+  <strong><a href="https://t.me/TrashedProject">Telegram Channel</a></strong> 
 </p>
 
 <p align="center">❤ Currently working on Realme 5 Series Custom Kernel (release whenever i want).</p>
